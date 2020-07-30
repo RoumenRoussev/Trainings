@@ -1,0 +1,2 @@
+# Trainings
+Trainings summarization repository 
