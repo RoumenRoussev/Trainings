@@ -1,2 +1,2 @@
 # Trainings
-Trainings summarization repository 
+Training's summarization repository
