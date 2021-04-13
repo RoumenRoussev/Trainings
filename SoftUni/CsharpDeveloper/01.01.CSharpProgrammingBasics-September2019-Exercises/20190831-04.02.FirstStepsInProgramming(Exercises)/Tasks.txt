@@ -1,5 +1,0 @@
-Задачи
-01. Hello SoftUni
-02. Expression
-03. Nums 1...10
-04. Rectangle Area
