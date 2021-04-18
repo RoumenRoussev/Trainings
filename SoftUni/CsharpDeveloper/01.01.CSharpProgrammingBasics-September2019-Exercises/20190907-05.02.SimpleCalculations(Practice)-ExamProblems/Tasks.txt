@@ -1,0 +1,6 @@
+Задачи
+01. Training Lab
+02. Vegetable Market
+03. Change Tiles
+04. Money
+05. Daily Earnings
