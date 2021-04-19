@@ -1,0 +1,10 @@
+Задачи
+01. Greeting by Name
+02. Concatenate Data
+03. Square Area
+04. Inches to Centimeters
+05. Projects Creation
+06. Circle Area and Perimeter
+07. Pet Shop
+08. Yard Greening
+09. Fish Tank
