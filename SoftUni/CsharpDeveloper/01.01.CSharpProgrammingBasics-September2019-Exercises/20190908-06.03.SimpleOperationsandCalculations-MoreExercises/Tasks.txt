@@ -1,0 +1,10 @@
+Задачи
+01. Trapeziod Area
+02. Triangle Area
+03. Celsius to Fahrenheit
+04. Vegetable Market
+05. Training Lab
+06. Fishland
+07. House Painting
+08. Weather Forecast
+09. Weather Forecast - Part 2
