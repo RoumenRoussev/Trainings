@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ExcellentResult", "01.ExcellentResult\01.ExcellentResult.csproj", "{19DA4E6A-4E3B-4171-B6F1-43A30D95F1C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.EvenOrOdd", "03.EvenOrOdd\03.EvenOrOdd.csproj", "{C5ACE840-D970-455D-9F59-F6CADF97ACB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.GreaterNumber", "02.GreaterNumber\02.GreaterNumber.csproj", "{36D4C96D-B9F4-4F1B-AC82-FE55F6906704}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Number0To9ToText", "04.Number0To9ToText\04.Number0To9ToText.csproj", "{3C4B112E-E989-468C-818D-0EF79FC1CD26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Number100To200", "05.Number100To200\05.Number100To200.csproj", "{61719672-298B-46B8-A045-A04BDBFF69C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.PasswordGuess", "06.PasswordGuess\06.PasswordGuess.csproj", "{783E860B-42A1-4B93-8F18-68CEA2AD0A49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.AreaOfFigures", "07.AreaOfFigures\07.AreaOfFigures.csproj", "{95FBA976-9086-4A16-80AC-B434303C7F15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.DayOfWeek", "08.DayOfWeek\08.DayOfWeek.csproj", "{203DE164-7805-43EA-B893-7D1179C67DD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.AnimalType", "09.AnimalType\09.AnimalType.csproj", "{F1E90D22-4EEB-48B2-93D2-2294EE5301EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples", "Examples\Examples.csproj", "{105FAE94-2F5D-4D19-9338-91D38970D780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ToyShop_Star", "10.ToyShop_Star\10.ToyShop_Star.csproj", "{084B0FC5-60D0-43E7-B80F-6E9319F12B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DA4E6A-4E3B-4171-B6F1-43A30D95F1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DA4E6A-4E3B-4171-B6F1-43A30D95F1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DA4E6A-4E3B-4171-B6F1-43A30D95F1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DA4E6A-4E3B-4171-B6F1-43A30D95F1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5ACE840-D970-455D-9F59-F6CADF97ACB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5ACE840-D970-455D-9F59-F6CADF97ACB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5ACE840-D970-455D-9F59-F6CADF97ACB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5ACE840-D970-455D-9F59-F6CADF97ACB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D4C96D-B9F4-4F1B-AC82-FE55F6906704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D4C96D-B9F4-4F1B-AC82-FE55F6906704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D4C96D-B9F4-4F1B-AC82-FE55F6906704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D4C96D-B9F4-4F1B-AC82-FE55F6906704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4B112E-E989-468C-818D-0EF79FC1CD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4B112E-E989-468C-818D-0EF79FC1CD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4B112E-E989-468C-818D-0EF79FC1CD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4B112E-E989-468C-818D-0EF79FC1CD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61719672-298B-46B8-A045-A04BDBFF69C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61719672-298B-46B8-A045-A04BDBFF69C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61719672-298B-46B8-A045-A04BDBFF69C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61719672-298B-46B8-A045-A04BDBFF69C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783E860B-42A1-4B93-8F18-68CEA2AD0A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783E860B-42A1-4B93-8F18-68CEA2AD0A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783E860B-42A1-4B93-8F18-68CEA2AD0A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783E860B-42A1-4B93-8F18-68CEA2AD0A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FBA976-9086-4A16-80AC-B434303C7F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FBA976-9086-4A16-80AC-B434303C7F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FBA976-9086-4A16-80AC-B434303C7F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FBA976-9086-4A16-80AC-B434303C7F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203DE164-7805-43EA-B893-7D1179C67DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203DE164-7805-43EA-B893-7D1179C67DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203DE164-7805-43EA-B893-7D1179C67DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203DE164-7805-43EA-B893-7D1179C67DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E90D22-4EEB-48B2-93D2-2294EE5301EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E90D22-4EEB-48B2-93D2-2294EE5301EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E90D22-4EEB-48B2-93D2-2294EE5301EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E90D22-4EEB-48B2-93D2-2294EE5301EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105FAE94-2F5D-4D19-9338-91D38970D780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105FAE94-2F5D-4D19-9338-91D38970D780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105FAE94-2F5D-4D19-9338-91D38970D780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105FAE94-2F5D-4D19-9338-91D38970D780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084B0FC5-60D0-43E7-B80F-6E9319F12B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084B0FC5-60D0-43E7-B80F-6E9319F12B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084B0FC5-60D0-43E7-B80F-6E9319F12B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084B0FC5-60D0-43E7-B80F-6E9319F12B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0170C79B-BAD8-417A-B99E-CA0DFA9FB011}
+	EndGlobalSection
+EndGlobal

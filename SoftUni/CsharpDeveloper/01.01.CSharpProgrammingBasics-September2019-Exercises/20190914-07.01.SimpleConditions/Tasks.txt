@@ -1,0 +1,11 @@
+Задачи
+01. Excellent Result
+02. Greater Number
+03. Even or Odd
+04. Number 1...9 to Text
+05. Number 100...200
+06. Password Guess
+07. Area of Figures
+08. Day of Week
+09. Animal Type
+10. Toy Shop
