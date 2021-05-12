@@ -1,0 +1,9 @@
+Задачи
+01. Sum Seconds
+02. Bonus Score
+03. Speed Info
+04. Metric Converter
+05. Time + 15 Minutes
+06. Godzilla vs. Kong
+07. World Swimming Record
+08. Scholarship - Star
