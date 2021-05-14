@@ -1,0 +1,9 @@
+Задачи
+01. Personal Titles
+02. Small Shop
+03. Number in Range
+04. Fruit or Vegetable
+05. Invalid Number
+06. Fruit Shop
+07. Trade Commissions
+08. Ski Trip✶
